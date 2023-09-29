@@ -14,3 +14,4 @@
   <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS">
   <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS">
   <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=wear=tails&logoColor=white
+  </p>
