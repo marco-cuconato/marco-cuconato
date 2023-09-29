@@ -9,7 +9,7 @@
   <a href="https://github.com/search?q=user%3Amarco-cuconato+language%3Apython"><img alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3670A0.svg?logo=Python&logoColor=ffdd54"></a>
 </p>
 
-<h2>Operatiing Systems</h2>
+<h2>Operating Systems</h2>
 <p>
   <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS">
   <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS">
