@@ -20,3 +20,8 @@
 <p>
   <img src="https://img.shields.io/badge/Spotify-1ED760?&badge&logo=spotify&logoColor=white"  alt="Spotify">
 </p>
+
+<h2>IDE/Editors</h2>
+<p>
+ <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
+</p>
