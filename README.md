@@ -23,5 +23,5 @@
 
 <h2>IDE/Editors</h2>
 <p>
- <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
+ <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?badge&logo=vim&logoColor=white" alt="Vim"
 </p>
