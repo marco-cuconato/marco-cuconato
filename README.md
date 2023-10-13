@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/Tails%20os-56347C?&badge&logo=tails&logoColor=white" alt="Tails">
 </p>
 
-<h2>Music</h2>
-<p>
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&badge&logo=spotify&logoColor=white"  alt="Spotify">
-</p>
 
 <h2>IDE/Editors</h2>
 <p>
